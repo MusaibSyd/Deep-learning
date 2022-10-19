@@ -1,1 +1,1 @@
-# using publicly available data to explore machine learning and deep learning
+# Using publicly available data to learn machine learning and deep learning
